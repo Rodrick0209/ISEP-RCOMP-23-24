@@ -1,11 +1,21 @@
 # RCOMP 2023-2024 Project
+Project for the class of RCOMP
 
-- #### Class: 2DJ
-- #### Group: 4
+## Subjects
+- Types of Cabling
+- Network Physical Infrastructure Planning
+- VLAN's
+- Subnetting
+- Static IP Addressing
+- Static Routing
+- Dynamic Routing (OSPF)
+- DHCP
+- Telephony Services
+- Static NAT
+- ACL's
+- DNS
+- HTTP
 
-## Resources
+## Packet Tracer Version
 
-| Sprints | Access Files                                                            |
-|---------|-------------------------------------------------------------------------|
-| 1       | [Planning](doc/sprint1/planning.md)<br/>[Review](doc/sprint1/review.md) |
-
+This Project was developed in Cisco Packet Tracer Version 8.2.1.118
